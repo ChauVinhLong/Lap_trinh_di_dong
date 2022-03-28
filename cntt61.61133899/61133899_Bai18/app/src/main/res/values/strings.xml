@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">61133899_Bai18</string>
+    <string-array name="ListViewActivity">
+        <item>Intel</item>
+        <item>SamSung</item>
+        <item>Nokia</item>
+        <item>Simen</item>
+        <item>AMD</item>
+        <item>KIC</item>
+        <item>ECD</item>
+    </string-array>
+</resources>
